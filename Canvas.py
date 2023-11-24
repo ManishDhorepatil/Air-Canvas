@@ -9,7 +9,7 @@ bpoints = [deque(maxlen=1024)]
 gpoints = [deque(maxlen=1024)]
 rpoints = [deque(maxlen=1024)]
 ypoints = [deque(maxlen=1024)]
-
+  
 
 # These indexes will be used to mark the points in particular arrays of specific colour
 blue_index = 0
